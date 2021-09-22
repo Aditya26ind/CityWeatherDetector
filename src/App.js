@@ -59,7 +59,6 @@ function App() {
               <h5 className="card-title text-success">Humidity:{val.main.humidity}</h5>
               <h5 className="card-title text-dark">Feels(T):{(parseInt(val.main.feels_like)-273.15).toFixed(2)
               }</h5>
-              <h4 className="card-title text-white">{val.sys.country}</h4>
           </div>
           </div>
           </div>
