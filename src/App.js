@@ -1,3 +1,4 @@
+import React from 'react';
 import moon1 from'./Components/media/moon1.jpg'
 import haze from "./Components/media/haze.jpg"
 import sun1 from './Components/media/sun1.jpg'
